@@ -59,7 +59,7 @@
 
                         <!-- Add to cart -->
                         <form class="mt-10">
-                            <button type="submit" class="mt-10 flex w-full items-center justify-center rounded-md border border-transparent bg-purple-700 px-8 py-3 text-base font-medium text-white hover:bg-purple-800 focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2 focus:outline-hidden">Add to bag</button>
+                            <button type="button" class="mt-10 flex w-full items-center justify-center rounded-md border border-transparent bg-purple-700 px-8 py-3 text-base font-medium text-white hover:bg-purple-800 focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2 focus:outline-hidden" onClick="alert('Cart not implemented yet')">Add to bag</button>
                         </form>
 
                         <!-- Description -->
